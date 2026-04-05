@@ -1,0 +1,15 @@
+D:\Programming\C#\TP_Modul6_103022400073\bin\Debug\net10.0\TP_Modul6_103022400073.exe
+D:\Programming\C#\TP_Modul6_103022400073\bin\Debug\net10.0\TP_Modul6_103022400073.deps.json
+D:\Programming\C#\TP_Modul6_103022400073\bin\Debug\net10.0\TP_Modul6_103022400073.runtimeconfig.json
+D:\Programming\C#\TP_Modul6_103022400073\bin\Debug\net10.0\TP_Modul6_103022400073.dll
+D:\Programming\C#\TP_Modul6_103022400073\bin\Debug\net10.0\TP_Modul6_103022400073.pdb
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\TP_Modul6_103022400073.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\TP_Modul6_103022400073.AssemblyInfoInputs.cache
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\TP_Modul6_103022400073.AssemblyInfo.cs
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\TP_Modul6_103022400073.csproj.CoreCompileInputs.cache
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\TP_Modul6_103022400073.sourcelink.json
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\TP_Modul6_103022400073.dll
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\refint\TP_Modul6_103022400073.dll
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\TP_Modul6_103022400073.pdb
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\TP_Modul6_103022400073.genruntimeconfig.cache
+D:\Programming\C#\TP_Modul6_103022400073\obj\Debug\net10.0\ref\TP_Modul6_103022400073.dll
